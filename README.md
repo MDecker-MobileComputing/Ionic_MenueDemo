@@ -2,6 +2,8 @@
 
 Simple [Ionic](https://ionicframework.com) app to demonstrate how to implement a menu for navigation.
 
+Menu is defined in file [app.component.html](src/app/app.component.html).
+
 <br>
 
 ----
