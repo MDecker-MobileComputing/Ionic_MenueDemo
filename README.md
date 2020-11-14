@@ -7,6 +7,15 @@ Menu is defined in file [app.component.html](src/app/app.component.html).
 <br>
 
 ----
+## Screenshots ##
+
+![Screenshot 1](screenshot_1.png)  ![Screenshot 2](screenshot_2.png)
+
+![Screenshot 3](screenshot_3.png)
+
+<br>
+
+----
 ## Run the app locally ##
 
 Prerequisite: NPM package `ionic` must be installed globally.
