@@ -5,11 +5,8 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './ergebnis.page.html',
   styleUrls: ['./ergebnis.page.scss'],
 })
-export class ErgebnisPage implements OnInit {
+export class ErgebnisPage {
 
   constructor() { }
-
-  ngOnInit() {
-  }
 
 }
