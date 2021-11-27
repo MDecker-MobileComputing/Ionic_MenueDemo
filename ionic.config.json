@@ -1,7 +1,8 @@
 {
   "name": "MenueDemo",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular"
 }

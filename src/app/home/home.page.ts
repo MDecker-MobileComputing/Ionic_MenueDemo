@@ -2,8 +2,7 @@ import { Component } from '@angular/core';
 
 
 /**
- * Hauptseite der App.
- * <br><br>
+ * Hauptseite der App.<br><br>
  * 
  * Artikel über Menüs in Ionic: https://www.damirscorner.com/blog/posts/20190906-MakingAMenuWorkInIonic4.html
  * <br><br>
