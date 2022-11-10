@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 
-
 /**
  * Hauptseite der App.<br><br>
  * 
