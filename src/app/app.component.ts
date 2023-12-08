@@ -10,8 +10,11 @@ export class AppComponent {
 
   constructor(private menuController: MenuController) {}
 
-  menuSchliessen() {
-    
+  /**
+   * Event-Handler-Methode für Schließen des Hamburger-Menüs.
+   */
+  onMenuSchliessen() {
+
     this.menuController.close();
   }
 

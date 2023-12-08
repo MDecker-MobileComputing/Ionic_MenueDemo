@@ -4,7 +4,9 @@ const config: CapacitorConfig = {
   appId: 'de.mide.ionic.menudemo',
   appName: 'Menue-Demo',
   webDir: 'www',
-  bundledWebRuntime: false
+  server: {
+    androidScheme: 'https'
+  }
 };
 
 export default config;
